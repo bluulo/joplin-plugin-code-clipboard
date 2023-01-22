@@ -8,6 +8,6 @@
 	"author": "bluulo",
 	"homepage_url": "https://github.com/bluulo/joplin-plugin-code-clipboard",
 	"repository_url": "https://github.com/bluulo/joplin-plugin-code-clipboard",
-	"keywords": [],
+	"keywords": ["joplin-plugin", "clipboard", "code block"],
 	"categories": []
 }
