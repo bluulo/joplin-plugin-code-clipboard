@@ -1,3 +1,9 @@
+> :warning: **No longer maintained**
+> 
+> Please be aware that there can be risk when using this plugin.
+> 
+> You can create pull requests, but there is no guarantee that they will ever be merged.
+
 # Joplin plugin code-clipboard
 
 Copy the content of a code block to the clipboard.
